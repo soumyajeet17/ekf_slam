@@ -18,8 +18,8 @@
 // =================================================================
 
 // --- Wi-Fi & ROS Server Configuration ---
-const char* ssid = "soumyajeet17";
-const char* password = "Apache@1600";
+const char* ssid = "*******";
+const char* password = "*********";
 
 //IPAddress server(192, 168, 0, 103);
 IPAddress server(10, 42, 0, 1);
