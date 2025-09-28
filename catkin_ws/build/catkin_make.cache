@@ -1,0 +1,2 @@
+my_ekf_slam:my_slam_interfaces:slam_system
+-DCATKIN_DEVEL_PREFIX=/home/soumyajeet17/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/soumyajeet17/catkin_ws/install -G Unix Makefiles

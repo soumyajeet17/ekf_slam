@@ -1,0 +1,8 @@
+prefix=/home/soumyajeet17/catkin_ws/devel
+
+Name: my_ekf_slam
+Description: Description of my_ekf_slam
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
